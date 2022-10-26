@@ -1,6 +1,4 @@
-body{
-    background: burlywood;
-}
+
 
 h1{
     color: white;
@@ -11,4 +9,8 @@ h1{
 p{
     font-family: 'Poppins', serif;
     font-weight: normal;
+}
+
+.hero{
+    background: rgb(250, 247, 240);
 }
